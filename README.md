@@ -10,7 +10,7 @@ The dashboard presents:
 
 ## 🌍 Access the Dashboard
 You can view the live dashboard on **Tableau Public**:  
-👉 [View Dashboard]((https://public.tableau.com/views/SaudiNationalDayTheStoryofUnification/__5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+👉 [View Dashboard](https://public.tableau.com/views/SaudiNationalDayTheStoryofUnification/__5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 
 ## 🛠️ Tools Used
@@ -20,5 +20,4 @@ You can view the live dashboard on **Tableau Public**:
 ## 🎯 Purpose
 This project was created to celebrate **Saudi National Day** and highlight the historical journey of the Kingdom of Saudi Arabia.
 
----
-💡 Feel free to fork this repository and share your own visualizations!
+
